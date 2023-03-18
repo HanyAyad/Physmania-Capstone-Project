@@ -1,7 +1,7 @@
 # Physmania-Capstone-Project
 A case study project to build a game that conteibutes to a more interactive approach of teaching physics in middle schools
 
-#Abstract
+# Abstract
 The purpose of this study is to develop an interactive educational environment that will focus on the creation of a game-based physics educational experience.
 This is achieved by simulating physical phenomena inside a game engine and building a virtual puzzle game environment. 
 Several design requirements were chosen for developing the solution: 
@@ -10,7 +10,7 @@ The effectiveness of the Prototype, Physmania, was determined by testing the gam
 The major findings of this study were marvelous as the prototype produced desirable results. 
 In conclusion, Physmania proved to be an effective solution for this problem.
 
-#Introduction
+# Introduction
 According to the UNESCO, about 10.4 million, about 85% of students in secondary education age, were enrolled in various forms of formal secondary education in 2018. Although this number may indicate high rates of literacy, the government expenditure per student was only 1558 PPP$ (purchasing power parity). 
 Due to low expenditure, the quality of education is extremely low. In fact, World Education Services said that about 30 percent of schoolchildren lack basic skills for reading and writing. This creates a huge increase in the amounts of graduates that lack basic skills for employment. This is also created by the lack of implementing new educational methodologies and the interference of technology in education. 
 Trying to solve this problem, many prior solutions were built in order to develop new educational techniques. For example, Kerbal space program is an educational space simulation video game in which players can build complex spacecrafts, perform experiments to test some scientific concepts, and explore the universe. The strength point about this prior solution is its accurate bodies’ physics. All objects in the game are simulated using Newtonian mechanics. It is also a high-level educational tool that allows
