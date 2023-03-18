@@ -1,5 +1,5 @@
 # Physmania-Capstone-Project
-A case study project to build a game that conteibutes to a more interactive approach of teaching physics in middle schools
+A case study project to build a game that contributes to a more interactive approach of teaching physics in middle schools
 
 # Abstract
 The purpose of this study is to develop an interactive educational environment that will focus on the creation of a game-based physics educational experience.
